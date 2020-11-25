@@ -1,0 +1,18 @@
+Package: nempack2
+Title: Nemeth coding project 2
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tom",
+           family = "Nemeth",
+           role = c("aut", "cre"),
+           email = "tan92@nau.edu")
+Description: Coding project.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
+Suggests: 
+    testthat
+Imports: 
+    base
